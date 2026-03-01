@@ -61,10 +61,14 @@ README.md          - This file
 
 ## 👥 Team
 
-**Kalpana Sri S**     [github.com/Kalpanasri253](https://github.com/Kalpanasri253)
-**Kaviya R**          [github.com/Kaviya-1208](https://github.com/Kaviya-1208)
-**Mohana Preethi G**  [github.com/MohanaPreethivsb](https://github.com/MohanaPreethivsb) 
-**Monashri M S**      [github.com/Monashri8127](https://github.com/Monashri8127)
+**Kalpana Sri S**     
+[github.com/Kalpanasri253](https://github.com/Kalpanasri253)
+**Kaviya R**          
+[github.com/Kaviya-1208](https://github.com/Kaviya-1208)
+**Mohana Preethi G** 
+[github.com/MohanaPreethivsb](https://github.com/MohanaPreethivsb) 
+**Monashri M S**     
+[github.com/Monashri8127](https://github.com/Monashri8127)
 ---
 
 ## 🎬 Demo Instructions
@@ -73,6 +77,7 @@ README.md          - This file
 2. Open `localhost:5000`
 3. **Click Update Sensors** → Health states change live!
 4. **Refresh page** → New anomalies detected
+
 
 
 
